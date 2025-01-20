@@ -1,1 +1,2 @@
 Hello this is git day 1
+This is our second line
